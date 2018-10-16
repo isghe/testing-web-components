@@ -1,0 +1,3 @@
+[submodule "popupInfoWebComponent"]
+	path = popupInfoWebComponent
+	url = https://github.com/andychiare/popupInfoWebComponent.git
